@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mona Aghili</h1>
 <h3 align="center">I am an innovative Frontend Developer interested in building and maintaining websites and web applications. I have experience with HTML, CSS, Javascript, Typescript, and modern Javascript frameworks and libraries such as ReactJS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monaaghili" alt="monaaghili" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/monaaghili" target="blank"><img src="https://img.shields.io/twitter/follow/monaaghili?logo=twitter&style=for-the-badge" alt="monaaghili" /></a> </p>
 
