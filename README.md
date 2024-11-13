@@ -1,2 +1,22 @@
-<h1>Hi, my name is Mona</h1>
-<p></p><b>A frontend developer, stargazer, tech enthusiast, and musicoholic, exploring the worlds of beats, bytes, and beyond.</b></p>
+### Hey, I'm Mona Aghili👋
+
+A Frontend Developer with 5+ years of experience in React.js, Next.js, JavaScript, and TypeScript. Interested in performance optimization and web standards. Skilled in building scalable and high-performance web applications and solving complex challenges.
+
+
+### Skills:
+
+-	**Front-end:** Next.js – ReactJS – Redux – TypeScript – Tailwind CSS
+-	**Soft skills:** Cross-functional collaboration and communication, teamwork spirit, Problem-solving.
+-	**Test:** Jest, Vitest and React Testing Library
+
+---
+
+ 
+- 👩🏻‍💻 &nbsp; I’m currently develping a UI kit library ([Mishka Chelekom](https://github.com/mishka-group/mishka_chelekom))
+- 📫 &nbsp; How to reach me: mona.mishka.life
+
+### Links
+
+* [Twitter](https://x.com/MonaAghili)
+* [LinkedIn](https://www.linkedin.com/in/monaaghili/)
+* [Portfolio](https://mona.mishka.life)
