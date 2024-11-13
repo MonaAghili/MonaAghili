@@ -13,7 +13,7 @@ A Frontend Developer with 5+ years of experience in React.js, Next.js, JavaScrip
 
  
 - 👩🏻‍💻 &nbsp; I’m currently develping a UI kit library ([Mishka Chelekom](https://github.com/mishka-group/mishka_chelekom))
-- 📫 &nbsp; How to reach me: mona.mishka.life
+- 📫 &nbsp; How to reach me: mona@mishka.life
 
 ### Links
 
