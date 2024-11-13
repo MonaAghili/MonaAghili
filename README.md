@@ -6,7 +6,6 @@ A Frontend Developer with 5+ years of experience in React.js, Next.js, JavaScrip
 ### Skills:
 
 -	**Front-end:** Next.js – ReactJS – Redux – TypeScript – Tailwind CSS
--	**Soft skills:** Cross-functional collaboration and communication, teamwork spirit, Problem-solving.
 -	**Test:** Jest, Vitest and React Testing Library
 
 ---
