@@ -1,5 +1,6 @@
-# Hey, I'm Mona Aghili👋
-## I am currently seeking a Frontend Developer position with an organization that offers visa sponsorship. Feel free to reach out to me at mona@mishka.life.
+## Hey, I'm Mona Aghili👋
+
+<p style="font-size: 20px; font-weight: bold;">I am currently seeking a Frontend Developer position with an organization that offers visa sponsorship. Feel free to reach out to me at mona@mishka.life.</p>
 
 A Frontend Developer with 5+ years of experience in React.js, Next.js, JavaScript, and TypeScript. Interested in performance optimization and web standards. Skilled in building scalable and high-performance web applications and solving complex challenges.
 
