@@ -1,8 +1,5 @@
 ### Hey, I'm Mona Aghili👋
 
-A Frontend Developer with 5+ years of experience in React.js, Next.js, JavaScript, and TypeScript. Interested in performance optimization and web standards. Skilled in building scalable and high-performance web applications and solving complex challenges.
-
-
 ### Skills:
 
 -	**Front-end:** Next.js – ReactJS – Redux – TypeScript – Tailwind CSS
