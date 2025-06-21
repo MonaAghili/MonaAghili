@@ -1,7 +1,7 @@
 ### Hey, I'm Mona Aghili👋
 
 ### Skills:
-Next.js – ReactJS – Redux – React Native – TypeScript – Tailwind CSS, Jest, Vitest and React Testing Library
+Next.js – ReactJS – Redux – React Native – Vue.js - Nuxt.js TypeScript – Tailwind CSS, Jest, Vitest and React Testing Library
 
 ---
 
